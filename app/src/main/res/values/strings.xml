@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test task book search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_book_title_or_author_or_category">Enter the book title or author or category</string>
+
+</resources>
